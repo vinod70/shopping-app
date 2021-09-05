@@ -4,8 +4,4 @@ hi vasanth
 praksh banglore
 vasnth banglore
 banglore
-<<<<<<< HEAD
-kuppam
-=======
 vkota
->>>>>>> b00c3fed1f0b63e5be40918feb1166a032020151
