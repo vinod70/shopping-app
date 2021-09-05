@@ -9,8 +9,4 @@ kuppam
 =======
 vkota
 >>>>>>> b00c3fed1f0b63e5be40918feb1166a032020151
-<<<<<<< HEAD
 hi madhu wgere
-=======
-kiran jjh
->>>>>>> c2797ce7781dccc975a30de5ec208ba44877d9ec
